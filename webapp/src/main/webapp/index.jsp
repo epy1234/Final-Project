@@ -8,7 +8,7 @@ div {text-align: center;}
 </head>
 <body>
 
-<h1 style="color:blue;"> Hello, Welcome to Our DevOps Final Project  </h1>
+<h1 style="color:blue;"> Hello, Welcome to Our DevOps Final Project On KUBERNETES  </h1>
 <h1 style="color:red;"> Created by Epy Eisikovits  </h1>
 <h1 style="color:blue;"> Version: 1.22  </h1>
 </body>
